@@ -34,7 +34,7 @@ it automatically counts the elo change for both player1 and player2 you don't ha
 
 **int getElo(int player)** use player id to get their elo
 
-**static phi(double z)** calculate Φ(z), Φ represents the CDF of standard distrubtion N(0, 1)
+**static double phi(double z)** calculate Φ(z), Φ represents the CDF of standard distrubtion N(0, 1)
 
 ## Formula:
 
